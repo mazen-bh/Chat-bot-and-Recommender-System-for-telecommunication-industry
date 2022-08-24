@@ -1,2 +1,2 @@
-# Chat-bot-and-Recommender-System-for-telecommunication-industry
-Chat bot and-Recommender System for telecommunication industry
+# offers-recommender-system
+A content based offers recommender system using cosine similarity and streamlit python
